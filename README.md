@@ -68,7 +68,7 @@ For more details please refer the following links
 
 To use this plugin with your osCommerce store you will need:
 
-- [osCommerce](https://oscommerce.com/)
+- [osCommerce](https://oscommerce.com/) (Versions tested: 2.3.4 & 2.3.4.1)
 
 If you want to know if Bleumi Pay supports your system or if you face any integration problem, please reach us at support@bleumi.com
 
